@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrSirRaccoon
-- 👀 I’m interested in games and codeing for games
+- 👀 I’m interested in games, codeing for games and 3D modeling
 - 🌱 I’m currently learning C# but have worked with Java before
 
 <!---
