@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrSirRaccoon
 - 👀 I’m interested in games and codeing for games
-- 🌱 I’m currently learning Java but have worked with C#
+- 🌱 I’m currently learning C# but have worked with Java before
 
 <!---
 MrSirRaccoon/MrSirRaccoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
